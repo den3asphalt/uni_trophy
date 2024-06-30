@@ -1,6 +1,6 @@
 javascript:(function(){
   var script = document.createElement('script');
-  script.src = 'http://localhost:3000/bookmarklet.js';
+  script.src = 'https://raw.githubusercontent.com/den3asphalt/uni_trophy/main/main.js';
   document.body.appendChild(script);
 })();
 
