@@ -1,6 +1,6 @@
 javascript:(function(){
-  var script = document.createElement('script');
-  script.src = 'https://den3asphalt.github.io/uni_trophy/main.js';
-  document.body.appendChild(script);
+  var s = document.createElement('script');
+  s.src = 'https://den3asphalt.github.io/uni_trophy/step.js';
+  document.body.appendChild(s);
 })();
 
